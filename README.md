@@ -40,24 +40,6 @@
 
 智能 AI 合同审查助手，帮助业务、法务和合规团队快速识别合同风险并生成修改建议。
 
-## 目录结构
-
-```text
-zhishu-qifei-skill/
-├── SKILL.md                 # 核心文件：元数据 + Agent 指令
-├── skill.json               # 机器可读配置
-├── agents/
-│   └── openai.yaml          # UI 展示元信息
-├── references/              # 公司、产品、FAQ、售前、竞品资料
-│   ├── company.md
-│   ├── products.md
-│   ├── faq.md
-│   ├── sales-playbook.md
-│   └── competitors.md
-├── README.md
-└── LICENSE
-```
-
 ## 安装
 
 ### 最简单的方式：告诉你的 AI 助手
