@@ -1,8 +1,8 @@
 interface:
-  display_name: "智书企飞客服助手"
+  display_name: "智书企飞公司信息"
   short_description: "面向客户回答智书企飞产品与常见问题"
   brand_color: "#2563EB"
-  default_prompt: "Use $zhishu-qifei-skill to answer customer questions about 智书企飞, 智书AI合同, 烽火, and 智审平台."
+  default_prompt: "Use $zhishu-qifei-company-info to answer customer questions about 智书企飞, 智书AI合同, 烽火, and 智审平台."
 
 policy:
   allow_implicit_invocation: true

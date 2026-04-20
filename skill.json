@@ -1,7 +1,7 @@
 {
-  "name": "zhishu-qifei-skill",
+  "name": "zhishu-qifei-company-info",
   "version": "0.1.0",
-  "displayName": "智书企飞客服助手",
+  "displayName": "智书企飞公司信息",
   "description": "面向客户的智书企飞公司、产品、常见问题、数据私有化与产品对比 Skill。",
   "capabilities": [
     "company_intro",

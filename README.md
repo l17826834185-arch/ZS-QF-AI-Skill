@@ -1,8 +1,8 @@
-# 智书企飞 AI Skill
+# 智书企飞公司信息
 
 这是一个面向客户的 AI Skill。安装后，AI 助手可以基于智书企飞公开产品资料，回答智书企飞、智书AI合同、烽火、智审平台相关问题，帮助客户快速了解产品能力、适用场景和常见问题。
 
-它更像一个“智书企飞专业客服助手”。
+它更像一个“智书企飞公司信息助手”。
 
 ## 关于智书企飞
 
@@ -55,7 +55,7 @@
 
 直接把下面这句话发给你的 AI 助手：
 
-> 帮我安装智书企飞 Skill，仓库地址：https://github.com/l17826834185-arch/ZS-QF-AI-Skill
+> 帮我安装智书企飞公司信息 Skill，仓库地址：https://github.com/l17826834185-arch/ZS-QF-Company-Info
 
 Agent 会自动克隆仓库并安装到对应的 Skill 目录。
 
@@ -64,8 +64,8 @@ Agent 会自动克隆仓库并安装到对应的 Skill 目录。
 克隆到本地 Skill 目录：
 
 ```bash
-git clone https://github.com/l17826834185-arch/ZS-QF-AI-Skill.git \
-  ~/.codex/skills/zhishu-qifei-skill
+git clone https://github.com/l17826834185-arch/ZS-QF-Company-Info.git \
+  ~/.codex/skills/zhishu-qifei-company-info
 ```
 
 只要目录下有 `SKILL.md`，Agent 下次启动就会自动加载这个 Skill。
@@ -90,7 +90,7 @@ git clone https://github.com/l17826834185-arch/ZS-QF-AI-Skill.git \
 |---|---|
 | 协议 | Codex Skill |
 | 当前版本 | 0.1.0 |
-| 仓库地址 | https://github.com/l17826834185-arch/ZS-QF-AI-Skill |
+| 仓库地址 | https://github.com/l17826834185-arch/ZS-QF-Company-Info |
 | 可见性 | Public |
 
 ## License
