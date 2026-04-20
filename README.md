@@ -55,7 +55,7 @@
 
 直接把下面这句话发给你的 AI 助手：
 
-> 帮我安装智书企飞公司信息 Skill，仓库地址：https://github.com/l17826834185-arch/ZS-QF-Company-Info
+> 帮我安装智书企飞公司信息 Skill，仓库地址：https://github.com/siying-labs/ZS-QF-Company-Info
 
 Agent 会自动克隆仓库并安装到对应的 Skill 目录。
 
@@ -64,7 +64,7 @@ Agent 会自动克隆仓库并安装到对应的 Skill 目录。
 克隆到本地 Skill 目录：
 
 ```bash
-git clone https://github.com/l17826834185-arch/ZS-QF-Company-Info.git \
+git clone https://github.com/siying-labs/ZS-QF-Company-Info.git \
   ~/.codex/skills/zhishu-qifei-company-info
 ```
 
@@ -90,7 +90,7 @@ git clone https://github.com/l17826834185-arch/ZS-QF-Company-Info.git \
 |---|---|
 | 协议 | Codex Skill |
 | 当前版本 | 0.1.0 |
-| 仓库地址 | https://github.com/l17826834185-arch/ZS-QF-Company-Info |
+| 仓库地址 | https://github.com/siying-labs/ZS-QF-Company-Info |
 | 可见性 | Public |
 
 ## License
