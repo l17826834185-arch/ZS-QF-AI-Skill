@@ -43,6 +43,12 @@
 
 智能 AI 合同审查助手，帮助业务、法务和合规团队快速识别合同风险并生成修改建议。
 
+## 产品入口
+
+- 智书AI合同：[飞书应用中心](https://app.feishu.cn/app/cli_a63cbce0d9b9500d)
+- 智审平台：[飞书应用中心](https://app.feishu.cn/app/cli_a90ac3ecb9f99bcc?from=share&visit_from=search)
+- 烽火：[飞书应用市场](https://app.feishu.cn/app/cli_a560d788f127d00c)
+
 ## 安装
 
 ### 最简单的方式：告诉你的 AI 助手

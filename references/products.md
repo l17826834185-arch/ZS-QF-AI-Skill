@@ -121,6 +121,10 @@
 
 智审平台是智能 AI 合同审查助手，帮助业务、法务和合规团队快速识别合同风险并生成修改建议。
 
+产品入口：
+
+https://app.feishu.cn/app/cli_a90ac3ecb9f99bcc?from=share&visit_from=search
+
 ### 解决什么问题
 
 - 合同审查耗时长，业务等待法务反馈。

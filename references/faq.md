@@ -170,7 +170,13 @@
 
 回答：
 
-资料中提供了部分飞书应用入口。智书AI合同飞书应用中心入口为：https://app.feishu.cn/app/cli_a63cbce0d9b9500d；烽火飞书应用市场体验入口为：https://app.feishu.cn/app/cli_a560d788f127d00c。具体试用权益、账号开通和功能范围需要以当前应用市场或商务确认结果为准。
+可以先通过飞书应用中心或智书企飞官方渠道了解试用方式。当前资料中提供的产品入口如下：
+
+- 智书AI合同：https://app.feishu.cn/app/cli_a63cbce0d9b9500d
+- 智审平台：https://app.feishu.cn/app/cli_a90ac3ecb9f99bcc?from=share&visit_from=search
+- 烽火：https://app.feishu.cn/app/cli_a560d788f127d00c
+
+具体试用权益、账号开通方式和功能范围可能会随版本或活动变化，建议以飞书应用中心展示或智书企飞官方服务人员确认为准。
 
 ## 适合哪些行业？
 
